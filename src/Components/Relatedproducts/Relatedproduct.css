@@ -23,3 +23,17 @@
     gap: 30px;
     margin-top: 50px;
 }
+
+@media(max-width:46.875em){
+    .Relatedproduct{
+    height:100vh;
+    margin-bottom: 12rem;
+}
+    .Relatedproduct-Item{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5.0rem;
+    margin-top: 5.0rem;
+    margin-bottom: 12rem;
+}
+}

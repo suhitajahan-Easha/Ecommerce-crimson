@@ -30,3 +30,30 @@
     transform: scale(1.05);
     transition: 0.6s;
 }
+@media (max-width:64.375em) {
+    .item{
+    width: 20rem;
+}
+
+.item img{
+    width: 18rem;
+   
+}
+    
+}
+@media(max-width:43.75em){
+    
+  .item{
+    width: 18rem;
+    
+}
+.item p{
+    margin: 6px 0;
+    font-size: 1.5rem;
+
+}
+.item img{
+    width: 15.0rem;
+    
+}
+}

@@ -62,3 +62,62 @@
  .offers-right img {
     height:320px;
 }
+
+@media(max-width:64.375em) {
+    
+    .offers-left h1{
+    
+    font-size: 4.0rem;
+    
+}
+.offers{
+   
+    margin-bottom: 10.0rem;
+    margin-top: 1.0rem;
+}
+    
+}
+@media(max-width:46.875em) {
+    
+.offers{
+    margin-top: 7.0rem;
+}
+    
+}
+@media(max-width:40.625em) {
+    
+.offers{
+    width: 50%;
+    height: 45vh;
+    padding: 0rem 10.0rem;
+    gap: 10px;   
+}
+.offers-left h1{
+    font-size: 3.0rem;
+}
+.offers-left p{
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+}
+.offers-right img {
+    height:25.0rem;
+}
+}
+@media(max-width:34.5em) {
+    
+.offers{
+    
+    height: 70vh;
+   flex-direction: column;
+}
+
+.offers-right img {
+    height:30.0rem;
+}
+.offers-right{
+   
+    
+    justify-content:center;
+   
+}
+}

@@ -56,3 +56,57 @@
     
 
 }
+@media(max-width:46.875em){
+    .news-Letter{
+    width: 50%;
+    height: 45vh;
+    
+}
+.news-Letter h1{
+    
+    font-size: 3rem;
+    text-align: center;
+}
+.news-Letter div{
+   
+    width: 50.0rem;
+    height: 5.0rem;
+    
+}
+.news-Letter p{
+   text-align: center;
+}
+.news-Letter input{
+    width: 40.0rem;
+    
+    font-size: 1.4rem;
+}
+.news-Letter div button{
+    width: 10.0rem;
+    height: 5.0rem;
+    
+}
+}
+@media(max-width:34.375em){
+    .news-Letter{
+    width: 30%;
+    height: 50vh;
+}
+.news-Letter h1{
+    font-size: 2rem;
+}
+.news-Letter div{
+   
+    width: 40.0rem; 
+}
+.news-Letter p{
+   
+   font-size: 1.4rem;
+}
+.news-Letter input{
+    width: 25.0rem; 
+}
+.news-Letter div button{
+    width: 15.0rem; 
+}
+}

@@ -1,44 +1,44 @@
-import p1_img from "./product_1.png";
-import p2_img from "./product_2.png";
-import p3_img from "./product_3.png";
-import p4_img from "./product_4.png";
-import p5_img from "./product_5.png";
-import p6_img from "./product_6.png";
-import p7_img from "./product_7.png";
-import p8_img from "./product_8.png";
-import p9_img from "./product_9.png";
-import p10_img from "./product_10.png";
-import p11_img from "./product_11.png";
-import p12_img from "./product_12.png";
-import p13_img from "./product_13.png";
-import p14_img from "./product_14.png";
-import p15_img from "./product_15.png";
-import p16_img from "./product_16.png";
-import p17_img from "./product_17.png";
-import p18_img from "./product_18.png";
-import p19_img from "./product_19.png";
-import p20_img from "./product_20.png";
-import p21_img from "./product_21.png";
-import p22_img from "./product_22.png";
-import p23_img from "./product_23.png";
-import p24_img from "./product_24.png";
-import p25_img from "./product_25.png";
-import p26_img from "./product_26.png";
-import p27_img from "./product_27.png";
-import p28_img from "./product_28.png";
-import p29_img from "./product_29.png";
-import p30_img from "./product_30.png";
-import p31_img from "./product_31.png";
-import p32_img from "./product_32.png";
-import p33_img from "./product_33.png";
-import p34_img from "./product_34.png";
-import p35_img from "./product_35.png";
-import p36_img from "./product_36.png";
+import p1_img from "./product_1.webp";
+import p2_img from "./product_2.webp";
+import p3_img from "./product_3.webp";
+import p4_img from "./product_4.webp";
+import p5_img from "./product_5.webp";
+import p6_img from "./product_6.webp";
+import p7_img from "./product_7.webp";
+import p8_img from "./product_8.webp";
+import p9_img from "./product_9.webp";
+import p10_img from "./product_10.webp";
+import p11_img from "./product_11.webp";
+import p12_img from "./product_12.webp";
+import p13_img from "./product_13.webp";
+import p14_img from "./product_14.webp";
+import p15_img from "./product_15.webp";
+import p16_img from "./product_16.webp";
+import p17_img from "./product_17.webp";
+import p18_img from "./product_18.webp";
+import p19_img from "./product_19.webp";
+import p20_img from "./product_20.webp";
+import p21_img from "./product_21.webp";
+import p22_img from "./product_22.webp";
+import p23_img from "./product_23.webp";
+import p24_img from "./product_24.webp";
+import p25_img from "./product_25.webp";
+import p26_img from "./product_26.webp";
+import p27_img from "./product_27.webp";
+import p28_img from "./product_28.webp";
+import p29_img from "./product_29.webp";
+import p30_img from "./product_30.webp";
+import p31_img from "./product_31.webp";
+import p32_img from "./product_32.webp";
+import p33_img from "./product_33.webp";
+import p34_img from "./product_34.webp";
+import p35_img from "./product_35.webp";
+import p36_img from "./product_36.webp";
 
 let all_product = [
   {
     id: 1,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "purple-printed-taaga-top",
     category: "women",
     image: p1_img,
     new_price: 50.0,
@@ -46,7 +46,7 @@ let all_product = [
   },
   {
     id: 2,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "brick-red-printed-taaga-top",
     category: "women",
     image: p2_img,
     new_price: 85.0,
@@ -54,7 +54,7 @@ let all_product = [
   },
   {
     id: 3,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "bottle-green-cotton-taaga-top",
     category: "women",
     image: p3_img,
     new_price: 60.0,
@@ -62,7 +62,7 @@ let all_product = [
   },
   {
     id: 4,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "white-pink-printed-cotton-top",
     category: "women",
     image: p4_img,
     new_price: 100.0,
@@ -70,7 +70,7 @@ let all_product = [
   },
   {
     id: 5,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "dark-magenta-printed-tencel-semi-dressy-top",
     category: "women",
     image: p5_img,
     new_price: 85.0,
@@ -78,7 +78,7 @@ let all_product = [
   },
   {
     id: 6,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "brown-tencel-cotton-work-wear-top",
     category: "women",
     image: p6_img,
     new_price: 85.0,
@@ -86,7 +86,7 @@ let all_product = [
   },
   {
     id: 7,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "purple-embroidered-viscose-cotton-dressy-top",
     category: "women",
     image: p7_img,
     new_price: 85.0,
@@ -94,7 +94,7 @@ let all_product = [
   },
   {
     id: 8,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "royal-blue-embroidered-tencel-taaga-top",
     category: "women",
     image: p8_img,
     new_price: 85.0,
@@ -102,7 +102,7 @@ let all_product = [
   },
   {
     id: 9,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "cyan-printed-and-erri-embroidered-tencel-kurta",
     category: "women",
     image: p9_img,
     new_price: 85.0,
@@ -110,7 +110,7 @@ let all_product = [
   },
   {
     id: 10,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "pink-printed-and-erri-embroidered-tencel-kurta",
     category: "women",
     image: p10_img,
     new_price: 85.0,
@@ -118,7 +118,7 @@ let all_product = [
   },
   {
     id: 11,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "aqua-blue-printed-and-erri-embroidered-tencel-kurta",
     category: "women",
     image: p11_img,
     new_price: 85.0,
@@ -126,7 +126,7 @@ let all_product = [
   },
   {
     id: 12,
-    name: "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+    name: "blue-printed-and-erri-embroidered-tencel-kurta",
     category: "women",
     image: p12_img,
     new_price: 85.0,

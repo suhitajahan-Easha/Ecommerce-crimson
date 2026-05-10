@@ -24,3 +24,24 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     margin-top: 50px;
 }
+
+@media(max-width:46.875em) {
+    .collections{
+    display: grid;
+    gap: 4.0rem;
+    grid-template-columns: 1fr 1fr 1fr;   
+}  
+}
+@media(max-width:40.625em) {
+    .collections{
+    display: grid;
+    gap: 8.0rem;
+    grid-template-columns: 1fr  1fr;    
+}
+.new-Collections h1{
+    font-size: 3.0rem;
+}
+.new-Collections hr{
+    height: 5px;
+}
+}

@@ -38,3 +38,10 @@
     justify-content: center;
     text-align:justify;
 }
+@media(max-width:34.375em){
+    .Descriptionbox-des{
+    padding: 2rem;
+    padding-bottom: 3rem;
+    
+}
+}

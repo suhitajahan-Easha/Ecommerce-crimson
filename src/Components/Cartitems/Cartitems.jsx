@@ -4,7 +4,7 @@ import { ShopContext } from '../../Context/ShopContext'
 import remove_icon from '../assets/cart_cross_icon.png'
 
 const Cartitems = () => {
-    const {all_product,cartItems,addToCart,removefromCart,getTotalamount}=useContext(ShopContext);
+    const {all_product,cartItems,addToCart,removefromCart,getTotalamount,decresefromCart}=useContext(ShopContext);
   return (
     <div className='Cartitems'>
         <div className="Cartitems-format-main">
@@ -24,7 +24,7 @@ const Cartitems = () => {
                         <p className='margin-left'>{e.name}</p>
                         <p className='margin-left'>${e.new_price}</p>
                         <button className='Cartitems-quantity margin-left'>
-                          <span onClick={()=>{removefromCart(e.id)}}>-</span>
+                          <span onClick={()=>{decresefromCart(e.id)}}>-</span>
                           {cartItems[e.id]}
                           <span onClick={()=>{addToCart(e.id)}}>+</span>
                         </button>
